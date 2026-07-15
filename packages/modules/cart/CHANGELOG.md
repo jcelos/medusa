@@ -1,5 +1,14 @@
 # @medusajs/cart
 
+## 2.18.0
+
+### Patch Changes
+
+- [#15840](https://github.com/medusajs/medusa/pull/15840) [`dfdcdd7467ede40e1bb80ce866bfe2c256b8ff86`](https://github.com/medusajs/medusa/commit/dfdcdd7467ede40e1bb80ce866bfe2c256b8ff86) Thanks [@nam-stx](https://github.com/nam-stx)! - feat(core-flows,order,cart,types,medusa): Add data and metadata fields to tax line models
+
+- Updated dependencies [[`d76952b5b0e4b287747a7e08f2cb745510143aae`](https://github.com/medusajs/medusa/commit/d76952b5b0e4b287747a7e08f2cb745510143aae), [`6ef16b6fdc6f04b900583a5f2714a863011ed19a`](https://github.com/medusajs/medusa/commit/6ef16b6fdc6f04b900583a5f2714a863011ed19a), [`513c01a5a7f587cb52c92677e2379e54bd990361`](https://github.com/medusajs/medusa/commit/513c01a5a7f587cb52c92677e2379e54bd990361)]:
+  - @medusajs/framework@2.18.0
+
 ## 2.17.2
 
 ### Patch Changes

@@ -1,5 +1,16 @@
 # @medusajs/payment
 
+## 2.18.0
+
+### Patch Changes
+
+- [#16036](https://github.com/medusajs/medusa/pull/16036) [`142ad068e7d892a24a6e2cf8c20e143409d27bde`](https://github.com/medusajs/medusa/commit/142ad068e7d892a24a6e2cf8c20e143409d27bde) Thanks [@shahednasser](https://github.com/shahednasser)! - fix(payment, medusa): reject refunds and captures of negative or 0 amount
+
+- [#15990](https://github.com/medusajs/medusa/pull/15990) [`935a14c0098580a2b6ef8af11321e931c8ac80da`](https://github.com/medusajs/medusa/commit/935a14c0098580a2b6ef8af11321e931c8ac80da) Thanks [@shahednasser](https://github.com/shahednasser)! - fix(utils): apply select in strategy for single entity fetches
+
+- Updated dependencies [[`d76952b5b0e4b287747a7e08f2cb745510143aae`](https://github.com/medusajs/medusa/commit/d76952b5b0e4b287747a7e08f2cb745510143aae), [`6ef16b6fdc6f04b900583a5f2714a863011ed19a`](https://github.com/medusajs/medusa/commit/6ef16b6fdc6f04b900583a5f2714a863011ed19a), [`513c01a5a7f587cb52c92677e2379e54bd990361`](https://github.com/medusajs/medusa/commit/513c01a5a7f587cb52c92677e2379e54bd990361)]:
+  - @medusajs/framework@2.18.0
+
 ## 2.17.2
 
 ### Patch Changes
